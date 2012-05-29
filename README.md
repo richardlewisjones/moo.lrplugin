@@ -3,8 +3,8 @@
 ## Hello!
 
 If you're a MOO customer who uses Adobe Photoshop Lightroom, you may
-find this plugin useful. It allows you to create MiniCards, Business
-Cards and Postcards and upload them to MOO, all from within Lightroom.
+find this plugin useful. It allows you create MiniCards, Business
+Cards and Postcards from your photos, all from within Lightroom.
 
 ## Compatibility
 
@@ -24,7 +24,7 @@ It has only been tested on Mac OS X 10.6 so far, although it should work on Wind
 
 * Select the photos you wish to export 
 * Select `File > Export...`
-* Select 'MOO' in the dropdown menu
+* Select `MOO` in the dropdown menu
 * Choose which product you wish to make from the dropdown (Business Cards, MiniCards or Postcards)
 * Choose which orientation you require (Landscape, Portrait or Automatic)
 * Click `Export`
