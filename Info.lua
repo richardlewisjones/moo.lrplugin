@@ -9,8 +9,8 @@
 -------------------------------------------------------------------------------
 
 local info = {
-   LrSdkVersion = 3.0,
-   LrSdkMinimumVersion = 3.0,
+   LrSdkVersion = 2.0,
+   LrSdkMinimumVersion = 2.0,
    
    LrToolkitIdentifier = 'com.moo.lightroom.export',
    LrPluginName = 'MOO Export Plugin',

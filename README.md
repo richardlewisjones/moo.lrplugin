@@ -8,7 +8,7 @@ Cards and Postcards from your photos, all from within Lightroom.
 
 ## Compatibility
 
-The script has been tested with Lightroom 4, although it should also work on LR3.
+The plugin has been tested with Lightroom versions 2.7, 3.6 and 4.0.
 
 It has only been tested on Mac OS X 10.6 so far, although it should work on Windows.
 
