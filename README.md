@@ -14,8 +14,9 @@ It has only been tested on Mac OS X 10.6 so far, although it should work on Wind
 
 ## Installation
 
-* Use the ZIP download button near the top of this page (https://github.com/moodev/moo-indesign) to download `moo.lrplugin.zip`
-* Unzip `moo.lrplugin.zip` somewhere on your hard disk, which should make a folder called `moo.lrplugin`
+* Use the ZIP download button near the top of this page (https://github.com/moodev/moo-indesign) to download a file which will have a name like `moodev-moo.lrplugin-abcdef.zip`
+* Unzip the zip file somewhere on your hard disk, which should make a folder called something like `moodev-moo.lrplugin-abcdef`
+* Rename the folder `moo.lrplugin`
 * Start Lightroom, and select `File > Plugin Manager...`
 * Navigate to the `moo.lrplugin` folder and click `Add plugin`
 
