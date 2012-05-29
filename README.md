@@ -24,8 +24,9 @@ It has only been tested on Mac OS X 10.6 so far, although it should work on Wind
 
 * Select the photos you wish to export 
 * Select `File > Export...`
-* Select `MOO` in the dropdown menu
-* Choose which product you wish to make from the dropdown (Business Cards, MiniCards or Postcards)
+* Select `MOO` in the `Export To:` menu
+* Choose which product you wish to make (Business Cards, MiniCards or Postcards)
 * Choose which orientation you require (Landscape, Portrait or Automatic)
 * Click `Export`
 * After the photos have been exported, you will be directed to the MOO website, where you can make final adjustments to your cards before adding them to your cart.
+
