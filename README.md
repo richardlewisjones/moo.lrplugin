@@ -8,9 +8,9 @@ Cards and Postcards from your photos, all from within Lightroom.
 
 ## Compatibility
 
-The plugin should work with Lightroom 2 or newer, on Mac OS X or Windows.
+The plugin should work with Lightroom 2 or newer, on Mac or Windows.
 
-It has been confirmed to work on Lightroom versions 2.7, 3.6 and 4.0 on Mac OS X 10.6 and version 3.6 on Windows Vista.
+It has been confirmed to work on Lightroom versions 2.7, 3.6, 4.0 and 4.1 on OS X 10.6 and version 3.6 on Vista.
 
 ## Installation
 
