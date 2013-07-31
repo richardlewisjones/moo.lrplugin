@@ -43,7 +43,7 @@ local products = {
       detailsTemplate = "postcard_blank",
       width = 148, --mm
       height = 105, --mm
-      items = 20
+      items = 10
    }
 }
 
